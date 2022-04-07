@@ -1,0 +1,1 @@
+# jhipster-aws-app-terraform
